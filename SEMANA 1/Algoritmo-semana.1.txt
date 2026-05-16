@@ -1,0 +1,6 @@
+﻿1.Buscar la información.
+2.Revisar la fuente.
+3.Confirmar la noticia.
+4.Leer toda la información completa.
+5.Comparar con otras páginas confiables.
+6.Verificar la fecha de publicación.
