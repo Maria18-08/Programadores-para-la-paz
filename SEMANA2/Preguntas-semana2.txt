@@ -1,0 +1,15 @@
+﻿PREGUNTAS.
+1.¿Cuál es la función principal de la terminal en un sistema operativo?
+Respuesta: B
+
+
+2.¿Qué hace el comando pwd?
+Respuesta: B
+
+
+3.¿Cuál comando permite ver los archivos y carpetas dentro del directorio actual?
+Respuesta: C
+
+
+4.¿Cuál comando permite crear una carpeta nueva desde la terminal? 
+Respuesta: B
