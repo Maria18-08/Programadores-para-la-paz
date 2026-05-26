@@ -1,0 +1,5 @@
+﻿REFLEXIÓN
+
+Es importante porque las tecnologías abiertas como Node.js permiten que las comunidades creen sus propias soluciones tecnológicas sin depender totalmente de grandes empresas.
+Esto ayuda a que las personas puedan resolver problemas de su comunidad, crear plataformas adaptadas a sus necesidades, compartir conocimientos y colaborar con otros, aprender programación y desarrollar habilidades digitales; Además, al ser tecnologías abiertas, cualquier persona puede estudiar el código, modificarlo, y mejorarlo.
+Esto fomenta la participación ciudadana, la innovación y el trabajo colaborativo.
