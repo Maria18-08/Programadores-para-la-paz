@@ -1,0 +1,8 @@
+1. http://localhost:3000
+   Muestra la página principal de la aplicación.
+
+2. http://localhost:3000/saludo
+   Muestra un mensaje de saludo al usuario.
+
+3. http://localhost:3000/mensaje/juan
+   Muestra un mensaje personalizado utilizando el nombre "Juan" que se envía en la ruta.
