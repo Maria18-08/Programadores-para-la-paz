@@ -1,0 +1,4 @@
+¿Que hace esta ruta?
+Esta ruta recibe informacion enviada por un usuario y la procesa en el servidor. Generalmente se utiliza para registrar, guardar o enviar datos. 
+¿Para qué podría servir en una aplicación comunitaria?
+Podria servir para que los ciudadanos envien reportes sobre problemas de la comunidad, como daños en las vias, fallas en el alumbrado público, acumulación de basura o situaciones de seguridad. La información enviada quedaria registrada para su revisión y solución. 
