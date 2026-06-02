@@ -1,0 +1,9 @@
+{
+  "name": "semana4",
+  "version": "1.0.0",
+  "description": "Proyecto Node.js",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^5.0.0"
+  }
+}
