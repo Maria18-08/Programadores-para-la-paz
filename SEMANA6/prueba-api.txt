@@ -1,0 +1,26 @@
+PRUEBA DE RECEPCIÓN DE DATOS API
+
+URL utilizada:
+http://localhost:3000/registro
+
+Método:
+POST
+
+JSON enviado:
+
+{
+"nombre": "Maria",
+"mensaje": "Hola comunidad"
+}
+
+Respuesta del servidor:
+
+{
+"estado": "Datos recibidos",
+"nombre": "Maria",
+"mensaje": "Hola comunidad"
+}
+
+Explicación:
+
+El servidor recibió correctamente la solicitud POST enviada a la ruta /registro. Los datos enviados en formato JSON fueron procesados y devueltos en la respuesta junto con el estado "Datos recibidos", confirmando que la información fue recibida exitosamente.
