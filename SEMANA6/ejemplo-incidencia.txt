@@ -1,0 +1,26 @@
+EJEMPLO DE REGISTRO DE INCIDENCIA
+
+Ruta utilizada:
+http://localhost:3000/incidencia
+
+Método:
+POST
+
+JSON enviado:
+
+{
+"tipo": "Iluminación pública",
+"descripcion": "La comunidad reporta que una lámpara del parque no funciona desde hace varios días."
+}
+
+Respuesta esperada del servidor:
+
+{
+"mensaje": "Incidencia registrada",
+"tipo": "Iluminación pública",
+"descripcion": "La comunidad reporta que una lámpara del parque no funciona desde hace varios días."
+}
+
+Explicación:
+
+La ruta /incidencia recibe los datos enviados por el ciudadano mediante una petición POST. El servidor toma los campos "tipo" y "descripcion" y devuelve una respuesta en formato JSON confirmando que la incidencia fue registrada correctamente.
