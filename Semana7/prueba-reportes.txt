@@ -1,0 +1,30 @@
+PRUEBA DE REPORTES
+
+Ruta POST utilizada:
+http://localhost:3000/reportes
+
+JSON enviado:
+
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+Ruta GET utilizada:
+http://localhost:3000/reportes
+
+Respuesta obtenida al consultar GET /reportes:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+Explicación:
+
+Primero se envió un reporte mediante una petición POST a la ruta /reportes. El servidor almacenó la información recibida, incluyendo el tipo y la descripción del reporte.
+
+Posteriormente, al realizar una petición GET a la misma ruta, el servidor devolvió la lista de reportes registrados. Esto permite consultar todos los reportes que han sido almacenados previamente en el sistema.
