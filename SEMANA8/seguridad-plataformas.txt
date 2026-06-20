@@ -1,0 +1,5 @@
+1. Mantener el software actualizado: Instalar actualizaciones y parches de seguridad para corregir vulnerabilidades.
+2. Realizar copias de seguridad periódicas: Guardar respaldos de la información para recuperarla en caso de pérdida o ataque.
+3. Capacitar a los usuarios en seguridad digital: Enseñar buenas prácticas para reconocer riesgos como correos o enlaces sospechosos.
+4. Utilizar autenticación de dos factores (2FA): Agregar una capa extra de seguridad además de la contraseña.
+5. Detectar y eliminar software malicioso: Usar herramientas de seguridad para identificar virus, malware o actividades sospechosas en la plataforma.
