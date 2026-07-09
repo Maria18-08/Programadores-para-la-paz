@@ -1,0 +1,26 @@
+Entidad: Reporte
+
+Campos principales:
+
+id
+título
+descripción
+ubicación
+fecha
+estado
+
+Propósito:
+Guardar los reportes o incidencias registrados por los ciudadanos para que puedan ser revisados y gestionados por el equipo de veeduría.
+
+Entidad: Usuario
+
+Campos principales:
+
+id
+nombre
+correo electrónico
+rol
+fecha de registro
+
+Propósito:
+Registrar la información de los usuarios de la plataforma, identificando si son ciudadanos, coordinadores o administradores para controlar el acceso y las funciones disponibles.
