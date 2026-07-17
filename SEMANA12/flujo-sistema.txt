@@ -1,0 +1,5 @@
+El ciudadano crea una causa ingresando el título, la descripción y la información necesaria.
+El sistema registra la causa en la base de datos y la publica para que esté disponible para la comunidad.
+Otros ciudadanos visualizan la causa y pueden apoyarla con un clic.
+El sistema contabiliza automáticamente los apoyos y actualiza el total en tiempo real.
+Cuando la causa alcanza el número de apoyos requerido, el sistema genera un documento PDF con toda la información de la petición y los respaldos para presentarlo ante la entidad correspondiente<.
