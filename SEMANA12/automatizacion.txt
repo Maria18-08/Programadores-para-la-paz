@@ -1,0 +1,5 @@
+Mensaje que se envía:
+"Se ha registrado una nueva causa en la plataforma. Revísala y apóyala si consideras que beneficia a la comunidad."
+
+Información que no debe enviarse por seguridad:
+No se deben enviar datos personales como cédulas, teléfonos, direcciones, correos electrónicos, contraseñas, claves de acceso ni información sensible de los ciudadanos.
